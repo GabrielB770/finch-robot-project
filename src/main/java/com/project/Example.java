@@ -1,6 +1,7 @@
 package com.project;
 import com.birdbrain.Finch;
 
+//Methods
 public class Example {
     public static void letterN(){
         Finch birds = new Finch();
@@ -42,7 +43,7 @@ public class Example {
     public static void main(String[] args){
         
         Finch bird = new Finch();
-        
+        //Execute Methods
         
         letterN();
         LetterA();
